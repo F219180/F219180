@@ -1,4 +1,4 @@
-# Advanced Software Engineer & AI Research Developer 
+# Associate Software Developer & AI Researcher
 
 ## Professional Overview
 
