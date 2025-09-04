@@ -4,12 +4,7 @@
 
 Software Developer specializing in full-stack development and emerging technologies. Currently pursuing Master's in Innovative Technologies while gaining practical experience in modern web development frameworks and AI/ML applications.
 
-## Professional Overview
-
-Distinguished Software Engineer specializing in cutting-edge AI/ML and DS research, advanced full-stack architectures, and enterprise-scale data science solutions. Expertise in transformer models, deep learning frameworks, and high-performance computing systems for complex algorithmic challenges.
-
 ---
-
 ## Skills
 
 ### 🌐 Web & App Development
