@@ -132,17 +132,24 @@ Core developer on the commerce platform the AI assistant runs on, spanning four 
 
 ---
 
-## Career Log
+## Experience
 
-```text
-* 2026-03  (HEAD)   AI/ML Engineer · Wireframe Marketing
-|                   shipped Trivo AI assistant, FocusFlow adaptive engine
-* 2025-04           Associate Software Developer · Wireframe Marketing
-|                   built Trivo commerce platform, 8 WooCommerce migrations, 10+ prod sites
-* 2025              BS Computer Science · FAST-NUCES
-|
-* 2027  (branch)    MS Innovative Technologies · NUST SEECS  [in progress]
-```
+**AI/ML Engineer** · Wireframe Marketing
+`Mar 2026 – Present`
+- Architected and deployed Trivo AI, a multi-tenant conversational assistant serving 12 tenants and 3,000+ chats per month
+- Built FocusFlow's adaptive ML engine for real-time difficulty calibration
+
+**Associate Software Developer** · Wireframe Marketing
+`Apr 2025 – Mar 2026`
+- Core developer on the Trivo multi-tenant commerce platform (Spring Boot, React, MySQL, Keycloak, Stripe)
+- Migrated 8 legacy WooCommerce stores and managed 10+ production sites for US and UK clients
+
+## Education
+
+| degree | institution | year |
+|---|---|---|
+| MS, Innovative Technologies | NUST SEECS, Islamabad | Expected 2027 |
+| BS, Computer Science | FAST-NUCES | 2025 |
 
 ---
 
