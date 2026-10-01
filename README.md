@@ -1,41 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Syeda+Daniya+Fatima;AI%2FML+Engineer+%C2%B7+LLM+%26+Backend+Systems;Grounded+retrieval.+Measured+cost.+Automated+evals." alt="Syeda Daniya Fatima" />
+<img src="./assets/banner.svg" alt="Syeda Daniya Fatima · AI/ML Engineer · LLM & Backend Systems" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-syedadaniyafatima-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedadaniyafatima)
-[![Medium](https://img.shields.io/badge/medium-@sf2291650-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sf2291650)
-[![Email](https://img.shields.io/badge/email-syedadaniyapk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedadaniyapk@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedadaniyafatima)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sf2291650)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedadaniyapk@gmail.com)
+[![Repo](https://img.shields.io/badge/BLIP--2_Fine--Tuning-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F219180/VLM-fine-tuning-and-downstream-application-development)
 
 </div>
 
-```console
-$ whoami
-syeda-daniya-fatima  ::  AI/ML engineer  ::  Islamabad, PK
+<br/>
 
-$ cat ~/.profile
-role      : AI/ML Engineer @ Wireframe Marketing
-works_on  : production LLM systems, RAG, VLM fine-tuning, multi-tenant SaaS backends
-approach  : ground every answer, evaluate automatically, track cost per request
-studying  : MS Innovative Technologies @ NUST SEECS (2027)
-```
+I build AI features that run in production: retrieval systems that ground every answer in source text, assistants that know when to hand off to a human, and fine-tuning pipelines measured against real benchmarks. Currently AI/ML Engineer at **Wireframe Marketing** and MS student at **NUST SEECS**.
 
----
+<br/>
 
-## Production Telemetry
-
-```log
-[trivo-ai]    tenants=12  verticals=4  chats_per_month=3000+
-[trivo-ai]    auto_resolution=0.65  cost_per_contact=$0.10  live_baseline=$8.01
-[uk-law-rag]  provision_retrieval 0.62 -> 0.89  regression_suite=150  pass_rate=0.92
-[blip2-ft]    bleu4=0.285  prompt_tuning=0.85x_full_ft  trainable_params=-90%
-[focusflow]   session_minutes 3 -> 45  cohort=6  duration=12w
-```
-
-```text
-cost per support contact
-live support  ████████████████████████████████████████  $8.01
-trivo-ai      ▌                                         $0.10
-```
+<img src="./assets/metrics.svg" alt="Production metrics: $0.10 cost per contact, 65% auto-resolution, retrieval 62% to 89%, 12 tenants, focus 3 to 45 min, 90% fewer trainable parameters" width="100%" />
 
 ---
 
